@@ -1,3 +1,8 @@
+/*
+chuacw, Singapore, Singapore
+6 Feb 2021
+*/
+
 console.log("WebSocket server custom protocol by Chua Chee Wee, Feb 2021")
 console.log("Please wait while starting WebSocket server");
 
